@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<style>.cls-1{fill:#4285f4;}.cls-1,.cls-2,.cls-4{fill-rule:evenodd;}.cls-2{fill:#1e88e5;}.cls-3,.cls-4{fill:#aecbfa;}.cls-5{fill:#669df6;}</style>
-</defs>
-<title>Icon_24px_AIHub_Color</title>
-<g data-name="Product Icons">
-<polygon class="cls-1" points="20.69 12.43 12 16.78 12 22 20.69 17.65 20.69 12.43"/>
-<path class="cls-2" d="M6.78,4.61,3.31,6.35Z"/>
-<polygon class="cls-1" points="17.22 8.09 17.22 8.09 17.22 12.43 20.69 10.7 20.69 6.35 17.22 8.09"/>
-<polygon class="cls-1" points="12 15.04 15.48 13.31 15.48 8.96 15.48 8.96 12 10.7 12 15.04"/>
-<polygon class="cls-3" points="6.78 4.61 3.31 6.35 6.78 8.09 10.26 6.35 6.78 4.61"/>
-<polygon class="cls-4" points="12 2 8.52 3.74 12 5.48 17.22 8.09 20.69 6.35 12 2"/>
-<polygon class="cls-3" points="12 7.22 8.52 8.96 12 10.7 15.48 8.96 12 7.22"/>
-<path class="cls-5" d="M8.52,15v5.22L12,22V16.78Zm2.61,5.22-1.74-.87V16.78l1.74.87Z"/>
-<path class="cls-5" d="M3.31,6.35v11.3l3.47,1.74V8.09Zm2.61,11.3-1.75-.87v-10l1.75.87Z"/>
-<path class="cls-5" d="M8.52,9,12,10.7V15L8.52,13.31Zm2.61,4.35v-3L9.39,9.45v3Z"/>
-</g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(25.882353%,52.156863%,95.686275%);fill-opacity:1;" d="M 43.105469 25.894531 L 25 34.957031 L 25 45.832031 L 43.105469 36.769531 Z M 43.105469 25.894531 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(11.764706%,53.333333%,89.803922%);fill-opacity:1;" d="M 14.125 9.605469 L 6.894531 13.230469 Z M 14.125 9.605469 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(25.882353%,52.156863%,95.686275%);fill-opacity:1;" d="M 35.875 16.855469 L 35.875 25.894531 L 43.105469 22.292969 L 43.105469 13.230469 Z M 35.875 16.855469 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(25.882353%,52.156863%,95.686275%);fill-opacity:1;" d="M 25 31.332031 L 32.25 27.730469 L 32.25 18.667969 L 25 22.292969 Z M 25 31.332031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(68.235294%,79.607843%,98.039216%);fill-opacity:1;" d="M 14.125 9.605469 L 6.894531 13.230469 L 14.125 16.855469 L 21.375 13.230469 Z M 14.125 9.605469 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(68.235294%,79.607843%,98.039216%);fill-opacity:1;" d="M 25 4.167969 L 17.75 7.792969 L 35.875 16.855469 L 43.105469 13.230469 Z M 25 4.167969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(68.235294%,79.607843%,98.039216%);fill-opacity:1;" d="M 25 15.042969 L 17.75 18.667969 L 25 22.292969 L 32.25 18.667969 Z M 25 15.042969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,61.568627%,96.470588%);fill-opacity:1;" d="M 17.75 31.25 L 17.75 42.125 L 25 45.832031 L 25 34.957031 Z M 23.1875 42.125 L 19.5625 40.3125 L 19.5625 34.957031 L 23.1875 36.769531 Z M 23.1875 42.125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,61.568627%,96.470588%);fill-opacity:1;" d="M 6.894531 13.230469 L 6.894531 36.769531 L 14.125 40.394531 L 14.125 16.855469 Z M 12.332031 36.769531 L 8.6875 34.957031 L 8.6875 14.125 L 12.332031 15.9375 Z M 12.332031 36.769531 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40%,61.568627%,96.470588%);fill-opacity:1;" d="M 17.75 18.75 L 25 22.292969 L 25 31.25 L 17.75 27.730469 Z M 23.1875 27.8125 L 23.1875 21.5625 L 19.5625 19.6875 L 19.5625 25.9375 Z M 23.1875 27.8125 "/>
+</g>
+</svg>
