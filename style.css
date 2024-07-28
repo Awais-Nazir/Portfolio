@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Inter',sans-serif;
     text-decoration: none;
-    list-style: none;
+    
     scroll-behavior: smooth;
 }
 :root {
@@ -19,6 +19,12 @@
 --h2-font:2.9rem;
 --p-font:1rem;
 }
+.career-content ul {
+    list-style: circle;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 body {
     color: var(--text-color);
     background: var(--bg-color);
@@ -50,7 +56,9 @@ header {
 span {
     color: var(--main-color);
 }
+
 .navlist {
+    list-style: none;
     display: flex;
 }
 .navlist a {
@@ -219,6 +227,24 @@ header.sticky {
 }
 .center-text h2 {
     font-size: var(--h2-font);
+}
+.career-content h3 {
+    color: var(--main-color);
+}
+.career-content h4 {
+    margin-top: 1rem;
+    color: var(--main-color);
+}
+/* .career-content ul{ 
+    list-style-type: square;
+    
+} */
+.career-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,auto));
+    align-items: center;
+    gap: 2.3rem;
+    margin-top: 4.2rem;
 }
 .services-content {
     display: grid;
