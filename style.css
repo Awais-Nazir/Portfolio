@@ -359,7 +359,7 @@ header.sticky {
 .row:hover {
     border: 1px solid var(--main-color);
     transform: translateY(-5px) scale(1.03);
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 .contact-form {
     display: flex;

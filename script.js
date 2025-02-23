@@ -23,3 +23,12 @@ function downloadCV() {
     link.click();
     document.body.removeChild(link);
 }
+
+function downloadSOLVERSE() {
+    const link = document.createElement('a');
+    link.href = 'Projects_Data\SOLVERSE.rar';
+    link.download = 'Projects_Data\SOLVERSE.rar';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
